@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Analysis**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@sutsavverma)
+- 📝 I regularly write articles on [Medium](https://medium.com/@sutsavverm)
 
 - 💬 Ask me about **Machine Learning, Artificial Intelligence, Data Structure & Algorithm**
 
