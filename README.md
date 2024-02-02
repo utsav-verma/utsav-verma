@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsav-verma&label=Profile%20views&color=0e75b6&style=flat" alt="utsav-verma" /> </p>
 
-- 🔭 I’m currently working on **DevOps**
+- 🔭 I’m currently working in field of **DevOps**
 
 - 🌱 I’m currently learning **React**
   
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sutsavverma@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1OmDCC8WMGbpsqDj1ungxIwBraTuSaYNi/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1WznlW-d9UltLxCijx4YtwPe6VOufr2Zd/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm Data Structure & Algorithm expert**
 
