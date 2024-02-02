@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Utsav Verma</h1>
-<h3 align="center">Final Year Undergraduate at VIT Bhopal. I'm an AI & ML enthusiast.</h3>
+<h3 align="center">Software Engineer @ Tata Digital.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsav-verma&label=Profile%20views&color=0e75b6&style=flat" alt="utsav-verma" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning Models and Data Analysis**
+- 🔭 I’m currently working on **DevOps**
 
-- 🌱 I’m currently learning **Data Analysis**
-
-- 📝 I regularly write articles on [Medium](https://medium.com/@sutsavverm)
+- 🌱 I’m currently learning **React**
+  
+- 🤖 I have also Created projects on **Machine Learning**
 
 - 💬 Ask me about **Machine Learning, Artificial Intelligence, Data Structure & Algorithm**
 
