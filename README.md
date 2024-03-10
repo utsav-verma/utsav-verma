@@ -9,14 +9,18 @@
   
 - 🤖 I have also Created projects on **Machine Learning**
 
-- 💬 Ask me about **Machine Learning, Artificial Intelligence, Data Structure & Algorithm**
+- 💬 Ask me about **Data Structure & Algorithm, DevOps, Kubernetes, React, Artificial Intelligence**
 
 - 📫 How to reach me **sutsavverma@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1WznlW-d9UltLxCijx4YtwPe6VOufr2Zd/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/u/1/folders/16Jmptvrqv87FF4t8VPqRdxrLkPo6nXuP)
 
 - ⚡ Fun fact **I think I'm Data Structure & Algorithm expert**
 
+<h3> Projects</h3>
+<p>- Dice Game <a href="https://github.com/utsav-verma/Dice-Game">Link</a></p>
+<p>- Weather App <a href="https://github.com/utsav-verma/MausamApp">Link</a></p>
+<p>- Brand Page <a href="https://github.com/utsav-verma/BrandPage">Link</a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/utsav-verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utsav-verma" height="30" width="40" /></a>
