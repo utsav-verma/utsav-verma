@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I think I'm Data Structure & Algorithm expert**
 
+- 🗒️ I write articles on [LinkedIn](https://www.linkedin.com/in/utsav-verma/recent-activity/articles/)
+
 <h3> Projects</h3>
 <p>- Dice Game <a href="https://github.com/utsav-verma/Dice-Game">Link</a></p>
 <p>- Weather App <a href="https://github.com/utsav-verma/MausamApp">Link</a></p>
